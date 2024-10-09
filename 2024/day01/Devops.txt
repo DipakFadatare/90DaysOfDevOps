@@ -1,0 +1,36 @@
+# Day1  --  Introduction to Devops
+
+   - Go to the repository on GitHub and fork it to your own account. This will allow you to track your progress and contribute.
+
+   ====> Successfully forked the GITHUB repo into my Personal GITHUB.
+
+2. **Start with a DevOps Roadmap:**
+   - Watch the introductory video on DevOps: [DevOps Roadmap](https://youtu.be/g_QHuGq3E2Y?si=fR9K56-JevZTfrBK)
+
+3. **Write a LinkedIn Post or a Small Article:**
+   - Share your understanding of DevOps based on the video and your research. Cover the following points:
+
+     - **What is DevOps:**
+       ===>1) Devops is a DEV+OPS which helps us to automate, build, publish the things.
+           2) Devops is a process of improving the application delivery by ensuring automation,quality, Continious Monitoring and Testing.
+           3) DevOps is the union of people, process, and products to enable continuous delivery of value to our end users.
+       
+     - **What is Automation, Scaling, and Infrastructure:**
+       Scaling: Automation scalability refers to handling these varying resource requirements dynamically without manual intervention. Automation scalability helps an organization in many ways.
+       Infrastructure: Infrastructure automation is the process of reducing human interaction with IT systems by creating scripts or functions that are repeatable and can be used either by other software or on command.
+       Automation: Automation in DevOps is the process of designing, developing and deploying software and systems with minimal human intervention.
+
+       
+     - **Why DevOps is Important:**
+            DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+
+     - **Why are we learning Devops:**
+        To upskill and get jobs
+        Growth
+        AI is taking over the market.
+
+    - **How can i become one:**
+       Practice and Consistent.
+       Learn in public
+       upskill
+       Social media presence(LinkedIn,GITHUB)
